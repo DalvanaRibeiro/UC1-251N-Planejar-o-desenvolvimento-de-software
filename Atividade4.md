@@ -8,7 +8,7 @@ Equipe 3: Roberson, Bruno e Jonathans: Sistema de Comércio Eletrônico (Exemplo
 
 Equipe 4: Gregori, Kaua e Ederson: Sistema de Gestão Escolar (Exemplo: Sistema de Gestão de Notas e Frequência)
 
-Equipe 5: Angelo, Bruno e Dheivve: Sistema de Ensino Online (Exemplo: Udemy)
+Equipe 5: Angelo, Bruno e Dheive: Sistema de Ensino Online (Exemplo: Udemy)
 
 Equipe 6: Heitor e Bruna: Sistema de Gerenciamento de Eventos (Exemplo: Cvent)
 
