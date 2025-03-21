@@ -1,6 +1,6 @@
 # Atividade 2103 - Equipes 👨‍💻👩‍💻✨📚
 
-Equipe 1: Pedro, Arthur e Leonardo: Sistema de Reserva de Passagens Aereas
+Equipe 1: Pedro, Arthur e Leonardo: Sistema de Reserva de Passagens Aereas (Exemplo: Skyscanner)
 
 Equipe 2: Davis e Athos: Sistema de Agendamento de Consultas Médicas (Exemplo: Doctoralia)
 
