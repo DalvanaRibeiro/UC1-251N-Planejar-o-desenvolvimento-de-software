@@ -23,41 +23,31 @@ Você e seu grupo serão responsáveis pelo **desenho do sistema de software** q
 
 ### **Instruções** 📋
 
-1. **Divisão de Grupos** 👥:
-   - A turma será dividida em **grupos de 4 ou 5 alunos**.
-   - Cada grupo terá um dos seguintes sistemas para desenvolver o protótipo:
-     - Sistema de E-commerce (Loja Online)
-     - Sistema de Gestão de Projetos com Tarefas e Colaboradores
-     - Sistema de Social Media (Rede Social)
-     - Sistema de Controle de Vendas e Comissões para Vendedores
-     - Sistema de Controle de Acesso e Segurança
-     - Sistema de Monitoramento de Qualidade de Água
-     - Sistema de Gerenciamento de Biblioteca
 
-2. **Definição do Product Backlog** 📝:
+1. **Definição do Product Backlog** 📝:
    - No início do trabalho, o grupo deve elaborar um **Product Backlog**. Esse backlog deve listar todas as funcionalidades e requisitos necessários para o desenvolvimento do sistema escolhido (como telas principais, interações entre o usuário e o sistema, etc.), priorizando as mais importantes para serem entregues nas primeiras sprints.
    - O Product Backlog deve ser dividido em **tarefas pequenas** e bem definidas, que serão trabalhadas ao longo do desenvolvimento.
 
-3. **Planejamento de Sprints** 📅:
+2. **Planejamento de Sprints** 📅:
    - O grupo deve planejar as **Sprints** de maneira iterativa. Cada sprint terá um prazo definido, e o grupo deve decidir as funcionalidades que serão entregues ao final de cada sprint.
    - Ao iniciar cada sprint, o grupo deve ter uma reunião de **Sprint Planning** para definir o que será feito, distribuir as tarefas e planejar as atividades para a sprint.
 
-4. **Daily Scrum** ⏰:
+3. **Daily Scrum** ⏰:
    - Durante o desenvolvimento de cada sprint, os membros do grupo devem realizar uma **reunião diária (Daily Scrum)** de 10 a 15 minutos, para discutir o progresso do trabalho e possíveis impedimentos.
    - Cada membro deve responder às três perguntas principais:
      1. O que eu fiz ontem? 💻
      2. O que eu vou fazer hoje? 📅
      3. Tenho algum impedimento? ⚠️
 
-5. **Sprint Review** 🎥:
+4. **Sprint Review** 🎥:
    - Ao final de cada sprint, o grupo deve realizar uma **Sprint Review** para apresentar a versão do protótipo que foi concluída. O foco da apresentação deve ser demonstrar as telas e interações do sistema e o progresso do MVP.
    - A **Sprint Review** é uma oportunidade para receber feedbacks do professor e dos colegas, o que pode ser utilizado para ajustar o desenvolvimento nos próximos ciclos.
 
-6. **Sprint Retrospective** 🔄:
+5. **Sprint Retrospective** 🔄:
    - Após a Sprint Review, o grupo deve realizar uma **Sprint Retrospective** para discutir o que funcionou bem durante o processo de desenvolvimento, o que poderia ser melhorado e como o trabalho pode ser mais eficiente nas sprints subsequentes.
    - A retrospectiva deve ser uma reflexão crítica para promover a melhoria contínua do processo de desenvolvimento.
 
-7. **Entrega Final** 🚀:
+6. **Entrega Final** 🚀:
    - A entrega final será um **protótipo funcional do sistema**, com as telas e interações implementadas conforme as sprints realizadas.
    - O sistema deve ser desenvolvido de forma colaborativa, com design bem estruturado e documentado, atendendo aos requisitos acordados no início do trabalho.
    - O grupo deve entregar:
@@ -89,11 +79,11 @@ Você e seu grupo serão responsáveis pelo **desenho do sistema de software** q
 
 | **Sprint**           | **Período**          | **Objetivo**                                        | **Entrega Esperada**                                     |
 |----------------------|----------------------|------------------------------------------------------|----------------------------------------------------------|
-| **Divisão de grupos**| [28/03]               | Formação dos grupos e escolha do sistema             | Escolha do sistema a ser desenvolvido                    |
-| **Product Backlog**  | [31/03]               | Elaboração do Product Backlog e definição das funcionalidades | Product Backlog pronto                                   |
-| **Sprint 1**         | [01/04]               | Primeira Sprint - Design das primeiras telas         | Protótipo inicial com as telas principais                |
-| **Sprint 2**         | [02/04]               | Segunda Sprint - Ajustes e novas telas               | Protótipo refinado com novas funcionalidades             |
-| **Sprint 3**         | [03/04]               | Sprint de testes e polimento do protótipo            | Protótipo finalizado com todas as funcionalidades        |
+| **Divisão de grupos**| [31/03]               | Formação dos grupos e escolha do sistema             | Escolha do sistema a ser desenvolvido                    |
+| **Product Backlog**  | [01/03]               | Elaboração do Product Backlog e definição das funcionalidades | Product Backlog pronto                                   |
+| **Sprint 1**         | [02/04]               | Primeira Sprint - Design das primeiras telas         | Protótipo inicial com as telas principais                |
+| **Sprint 2**         | [03/04]               | Segunda Sprint - Ajustes e novas telas               | Protótipo refinado com novas funcionalidades             |
+| **Sprint 3**         | [04/04]               | Sprint de testes e polimento do protótipo            | Protótipo finalizado com todas as funcionalidades        |
 | **Sprint Review e Retrospective** | [04/04]     | Apresentação final e reflexão do processo            | Demonstração final do protótipo e relatório de progresso |
 
 ---
