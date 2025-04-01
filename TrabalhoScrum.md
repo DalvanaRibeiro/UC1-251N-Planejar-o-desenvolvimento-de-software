@@ -80,7 +80,7 @@ Você e seu grupo serão responsáveis pelo **desenho do sistema de software** q
 | **Sprint**           | **Período**          | **Objetivo**                                        | **Entrega Esperada**                                     |
 |----------------------|----------------------|------------------------------------------------------|----------------------------------------------------------|
 | **Divisão de grupos**| [31/03]               | Formação dos grupos e escolha do sistema             | Escolha do sistema a ser desenvolvido                    |
-| **Product Backlog**  | [01/03]               | Elaboração do Product Backlog e definição das funcionalidades e  Primeira Sprint - Design das primeiras telas   | Product Backlog pronto                                   |
+| **Product Backlog**  | [01/03]               | Elaboração do Product Backlog e definição das funcionalidades e  Primeira Sprint - Design das primeiras telas   | Product Backlog pronto e Design das primeiras telas                                   |
 | **Sprint 2**         | [03/04]               | Segunda Sprint - Ajustes e novas telas               | Protótipo refinado com novas funcionalidades             |
 | **Sprint 3**         | [04/04]               | Sprint de testes e polimento do protótipo            | Protótipo finalizado com todas as funcionalidades        |
 | **Sprint Review e Retrospective** | [04/04]     | Apresentação final e reflexão do processo            | Demonstração final do protótipo e relatório de progresso |
