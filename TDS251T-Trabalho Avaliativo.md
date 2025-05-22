@@ -1,4 +1,4 @@
-# Projeto de Software com Figma — Usando SCRUM
+# Projeto de Software com Figma — Usando SCRUM | Trabalho Avaliativo
 
 ## 🎯 Objetivo
 
