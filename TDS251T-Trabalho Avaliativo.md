@@ -32,9 +32,10 @@ O projeto será dividido em **3 Sprints (etapas curtas)**. Em cada Sprint, o gru
 - Listar o problema que o app resolve
 - Criar uma lista de funcionalidades
 - Desenhar o fluxograma das telas no caderno ou no Figma
+- Criar pelo menos **3 telas navegáveis**
 
 ### 🟩 Sprint 2: Protótipo Inicial no Figma (23/05 a 26/05)
-- Criar pelo menos **3 telas navegáveis**
+- Criar as outras**3 telas navegáveis**
 - Criar o logo do app
 - Escolher uma paleta de cores e fontes
 
